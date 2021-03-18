@@ -1,0 +1,8 @@
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-2.3.1/en_core_web_lg-2.3.1.tar.gz#egg=en_core_web_lg
+Flask==1.1.2
+Flask-RESTful==0.3.8
+python-dateutil==2.8.1
+python-json-logger==2.0.1
+requests==2.25.1
+spacy==2.3.2
+
